@@ -1,0 +1,9 @@
+{
+  "domain": "torque2",
+  "name": "Torque2",
+  "documentation": "https://www.home-assistant.io/integrations/torque",
+  "requirements": [],
+  "dependencies": ["http"],
+  "codeowners": [],
+  "version": "2.0.0"
+}
